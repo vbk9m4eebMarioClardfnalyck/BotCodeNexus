@@ -1,0 +1,7 @@
+node_modules/
+__pycache__/
+*.env
+data/user_projects_encrypted/
+web_app/build/
+web_app/dist/
+models/
